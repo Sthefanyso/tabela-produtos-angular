@@ -1,0 +1,7 @@
+{
+  "produtos" : [
+      { "id" : 1, "tipo" : "Headset", "valor" : "73.90",  "marca" : "Multilaser", "dimensoes" : "21.6 x 20 x 11.8 cm"   },
+      { "id" : 2, "tipo" : "Teclado", "valor" : "48.50",  "marca" : "Finding", "dimensoes" : "44.8 x 14.6 x 3.4 cm"  },
+      { "id" : 3, "tipo" : "Mouse", "valor" : "90.00",  "marca" : "Redragon", "dimensoes" : "22.8 x 22.5 x 6.2 cm"  }
+  ]
+}
